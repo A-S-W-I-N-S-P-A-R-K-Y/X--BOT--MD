@@ -1,6 +1,9 @@
 # X--BOT--MD (Beta) for testers
 ## This version of x bot is only for testers to test
 
+<a><img src='(https://files.catbox.moe/mlidg8.jpg)'/></a><a><img src='https://files.catbox.moe/mlidg8.jpg'/></a>
+
+
 ## Join for updates
 <p align="center">
 
