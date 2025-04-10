@@ -79,5 +79,5 @@ Beta testers
 
 
 
-* [`RUSH MASTER`](https://github.com/rushmaster12)
+* [`RUSH MASTER`](https://github.com/RUSH-MASTER)
  </details>
