@@ -44,7 +44,7 @@ Sparky({
 			quoted: m
 		});
 		const end = new Date().getTime();
-		return await m.sendMsg(m.jid, `_Latency : ${end - start} ms_`, {
+		return await m.sendMsg(m.jid, `_🆇-𝗕𝗢𝗧 ѕρєє∂   ➳ : ${end - start} ʍȿ╏_`, {
 			edit: pong.key
 		});
 	});
