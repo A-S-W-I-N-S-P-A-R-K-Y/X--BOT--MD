@@ -58,8 +58,8 @@ module.exports = {
 	HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
 	KOYEB_API_KEY: process.env.KOYEB_API_KEY || "",
 	KOYEB_SERVICE_NAME: process.env.KOYEB_SERVICE_NAME || "",
-	RENDER_API_KEY: process.env.RENDER_API_KEY || "",
-	RENDER_APP_NAME: process.env.RENDER_APP_NAME || "",
+	RENDER_API_KEY: process.env.RENDER_API_KEY || "rnd_r2ltrFbkFLUtsyXMZxudYwdqRHOa",
+	RENDER_APP_NAME: process.env.RENDER_APP_NAME || "Arjuneee",
 	LANGUAGE: process.env.LANGUAGE || "english",
 	LOGS: toBool(process.env.LOGS || "false"),
 	MENU_TYPE: process.env.MENU_TYPE || "image", // Menu style: big, small, image, document, text, call, payment
@@ -79,6 +79,6 @@ module.exports = {
 	STATUS_REPLY: toBool(process.env.STATUS_REPLY || "false"),
 	STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "false",
 	STATUS_REACTION: toBool(process.env.STATUS_REACTION || "true"),
-	STATUS_REACTION_EMOJI: process.env.STATUS_REACTION_EMOJI || "🫶🏻🤍",
+	STATUS_REACTION_EMOJI: process.env.STATUS_REACTION_EMOJI || "🫶🏻,🤍",
 	WARN_COUNT: process.env.WARN_COUNT || "3"
 };
