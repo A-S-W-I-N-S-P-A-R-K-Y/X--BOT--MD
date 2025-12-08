@@ -18,7 +18,7 @@
     "SUDO": {
       "description": "Enter owner numbers with country code (without +), separated by commas for multiple owners. Example: 919876543210,917012345678",
       "required": true,
-      "value": "917012984396"
+      "value": "918967698712"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter the exact name of your Heroku app (must match the app name you created).",
